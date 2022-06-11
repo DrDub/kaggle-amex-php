@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rubix/ml": "^2.0",
+        "abbadon1334/gnuplot": "dev-master"
+    }
+}
